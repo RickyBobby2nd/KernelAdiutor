@@ -68,7 +68,7 @@ dependencies {
     implementation 'com.android.support:appcompat-v7:27.1.0'
     implementation 'com.android.support:cardview-v7:27.1.0'
     implementation 'com.android.support:design:27.1.0'
-    implementation 'com.android.support:preference-v14:27.1.0'
+    implementation 'com.android.support:preference-v14:28.0.0'
     implementation 'com.google.android.apps.dashclock:dashclock-api:2.0.0'
     implementation 'com.mattprecious.swirl:swirl:1.0.0'
     implementation 'com.mikhaellopez:circularimageview:3.0.2'
